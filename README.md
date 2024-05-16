@@ -1,7 +1,8 @@
 # InLustro_DevOps
 # InLustro_DevOps
 # Foreign Trading System (FTS)
-FTS is a simple Python-based application for currency exchange and transactions. It provides a basic user interface using Tkinter and utilizes SQLite for data storage.
+- FTS is a simple Python-based application for currency exchange and transactions.
+- It provides a basic user interface using Tkinter and utilizes SQLite for data storage.
 
 # Usage
 # Clone the Repository: 
