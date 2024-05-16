@@ -26,4 +26,4 @@ scrape_configs:
     # scheme defaults to 'http'.
 
     static_configs:
-      - targets: ["C:\Users\TEMP.RV-F15.000.001\Downloads\project.html"]
+      - targets: ["file:///D:/mini.html#login"]
